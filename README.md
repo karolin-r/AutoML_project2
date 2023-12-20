@@ -12,6 +12,7 @@ pip install -r requirements.txt
 
 # Data and files
 
+AutoML_project2_Karolin.ipynb - main code
 datasets folder - contain all datasets that were used
 metrics.py and metrics_rules.py - functions for evaluation metrics
 anchor_utils.py - needed for using ANCHOR
